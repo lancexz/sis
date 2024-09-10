@@ -1,2 +1,3 @@
-# sis-tshirt-unfolding
-Project page for SIS: Seam-Informed Strategy for T-shirt Unfolding
+# SIS: Seam-Informed Strategy for T-shirt Unfolding
+
+https://youtu.be/jh3Dpioe_dI
