@@ -1,5 +1,7 @@
 # SIS: Seam-Informed Strategy for T-shirt Unfolding
 
+The paper has been accepted by IEEE Robotics and Automation Letters (RAL). The Early Access is now available [here](https://ieeexplore.ieee.org/document/11017654).
+
 <!-- cover_image -->
 ![cover_image](./images/241205-1139-cover.png)
 
@@ -11,3 +13,18 @@ Here is a video of our project using unseen T-shirts and unseen types of garment
 ### Previous Version
 
 [![video](https://img.youtube.com/vi/jh3Dpioe_dI/0.jpg)](https://youtu.be/jh3Dpioe_dI)
+
+### Citation
+You are welcome to cite our paper!
+```latex
+@ARTICLE{11017654,
+  author={Huang, Xuzhao and Seino, Akira and Tokuda, Fuyuki and Kobayashi, Akinari and Chen, Dayuan and Hirata, Yasuhisa and Tien, Norman C. and Kosuge, Kazuhiro},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={SIS: Seam-Informed Strategy for T-Shirt Unfolding}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Grasping;Clothing;Feature extraction;Robots;Image segmentation;YOLO;Self-supervised learning;STEM;Robot motion;Planning;Perception for grasping and manipulation;bimanual manipulation;manipulation planning},
+  doi={10.1109/LRA.2025.3574966}}
+```
